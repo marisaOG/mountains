@@ -52,7 +52,7 @@ set_param(mdl,'FixedStep','.01');
 
 %%
 % The default plot type for the Scope block is |Auto|, which means that the
-% plot changes type depending on the inputs. Because the sample time is now
+% plot changes type depending on the inputs. Blah blah blah
 % discrete, the Scope block shows a stair plot. The default plot type of
 % the Time Scope block is a |Line| plot, so the signal visualization does
 % not change when the sample time changes to discrete.
